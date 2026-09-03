@@ -10,6 +10,7 @@ assignees: ''
 ## Before
 
 - [ ] Create a repo from the [dsincubator/template](https://github.com/dsincubator/template) and prepare the materials.
+- [ ] Cut a GitHub release that snapshots the repository exactly as it will be shown during the meetup.
 - [ ] Announce in the most appropriate channel, e.g. #dsincubator
 - [ ] Create/update the calendar invitation.
 

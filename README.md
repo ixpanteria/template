@@ -1,11 +1,13 @@
 # Series Title
 
-The goal of this series is ...
+The goal of this series is ... (for a single meetup instead of a series, see the [single-meetup example](https://github.com/dsincubator/meta))
 
 At the end of this series, you will know how to do things like:
 
 * ...
 * ...
+
+Each item in this syllabus corresponds to a meetup and a GitHub release that preserves a snapshot of this repository exactly as it was shown during the meetup.
 
 ## Who is the audience?
 
